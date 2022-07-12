@@ -1,1 +1,9 @@
+# **Meu filme favorito**
 
+![](https://66.media.tumblr.com/72235cdb7deb8e4d086efd60aac81c59/tumblr_p1bqz7QHQ41w1aidxo3_r1_540.gif)
+
+Meu filme favorito é "**Viva – A Vida É uma Festa**" da Disney. É um filme musical de animação computadorizada norte-americano de 2017, produzido pela *Pixar Animation Studios* e distribuído pela *Walt Disney Studios Motion Pictures*. Baseado em uma ideia original de Lee Unkrich, o longa-metragem animado é dirigido por Unkrich e codirigido por Adrian Molina. A história é sobre um garoto de 12 anos chamado Miguel Rivera que acidentalmente é transportado para o mundo dos mortos, onde procura pela ajuda de seu trisavô músico para que ele o leve de volta para a sua família no mundo dos vivos.
+
+O conceito do filme é baseado no feriado mexicano de Dia dos Mortos. Coco foi roteirizado por Molina e Matthew Aldrich a partir de uma história de Unkrich, Jason Katz, Aldrich e do próprio Molina. A Pixar começou a desenvolver a animação do projeto em 2016; Unkrich e alguns dos responsáveis pelo filme visitaram o México para buscar inspiração. O compositor Michael Giacchino, que já trabalhou em outros filmes anteriores da Pixar, como The Incredibles, Ratatouille, Up e Cars 2, compôs a trilha sonora. O elenco de dublagem do filme conta com Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, Alanna Ubach, Renée Victor, Ana Ofelia Murguía e Edward James Olmos. Foi o primeiro filme na história do cinema com uma bilheteria de nove dígitos a contar com um elenco completamente composto por atores latinos, contando com estimativas orçamentárias que variam entre US$ 175 e 200 milhões.
+
+Esse filme trata de assuntos bastante pessoais para mim, com temas familiares ele me fez refletir bastante sobre o meu relacionamento com a minha familia e me fez ter uma pespectiva diferente de como me relacionar com a minha familia em geral.
