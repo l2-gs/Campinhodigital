@@ -15,10 +15,10 @@ interface.question("ano de nascimento: ",(input)=>
 {
 //Condição
     if(2022-input >=16)
-    {
-        console.log("Você pode votar")
-    }
-        else 
+        {
+            console.log("Você pode votar")
+        }
+    else 
         {
             console.log("Você não pode votar")
         }

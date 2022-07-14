@@ -15,10 +15,10 @@ interface.question("Digite a senha:",(input)=>
 {
 //Condição    
     if (input =="1234")
-    {
-        console.log("ACESSO PERMITIDO")
-    }
-        else
+        {
+            console.log("ACESSO PERMITIDO")
+        }
+    else
         {
         console.log("ACESSO NEGADO")
         }

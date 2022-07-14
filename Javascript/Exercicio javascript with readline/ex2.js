@@ -11,15 +11,14 @@ interface.question("Digite um número: ",(input)=>
 {
 //Condição 
     if (input%2==0)
-    {
+        {
         console.log("O número",input,"é PAR")
-    }
-        else
+        }
+    else
         {
         console.log("O número",input,"é IMPAR")
         }
 
  //Fechar interface   
         interface.close();
-}
-)
+})
