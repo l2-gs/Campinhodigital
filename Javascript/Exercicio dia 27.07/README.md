@@ -7,7 +7,9 @@
 EX: 
 
 Jogador A: 1,2,3,4,5
+
 Jogador B: 1,2,3,8,7
+
 Algoritmo imprime: 1,2,3
 > 
 
@@ -16,7 +18,9 @@ Algoritmo imprime: 1,2,3
 EX: 
 
 Jogador A: 1,2,3,4,5
+
 Jogador B: 1,2,3,8,7
+
 Algoritmo imprime: 4,5
 
 
@@ -25,15 +29,20 @@ Algoritmo imprime: 4,5
 EX: 
 
 Jogador A: 1,2,3,4,5
+
 Jogador B: 1,2,3,8,7
+
 Algoritmo imprime: 1,2,3,4,5,7,8
 
 
 - 📌4 - Crie um programa que receba uma palavra e exiba quantas consoantes e vogais essas palavra tem:
 
 EX: saúde
+
 2 consoantes
+
 3 vogais
+
 > 
 
 - 📌 5 - Faça um programa que receba um nome e imprima a terceira letra do nome.
