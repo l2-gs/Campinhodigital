@@ -4,7 +4,7 @@
 
 - 📌1 - Faça um algoritmo que receba o nome de dois jogadores e após isso peça 5 números de 1 a 10 para cada jogador. Primeiro para o jogador A e depois para o Jogador B.Após a escolha de cada jogador o algoritmo deve apresentar quais forma os números iguais que o jogador A e B colocaram.
 
-**EX: **
+**EX:**
 
 **Jogador A: 1,2,3,4,5**
 
@@ -15,7 +15,7 @@
 
 - 📌 2 - Faça um algoritmo que receba o nome de dois jogadores e após isso peça 5 números de 1 a 10 para cada jogador. Primeiro para o jogador A e depois para o jogador B. Após a escolha de cada jogador o algoritmo deve apresentar quais os números que apenas o jogador A colocou diferente do jogador B.
 
-**EX: **
+**EX:**
 
 **Jogador A: 1,2,3,4,5**
 
@@ -26,7 +26,7 @@
 
 - 📌 3 - Faça um algoritmo que receba o nome de dois jogadores e após isso peça 5 números de 1 a 10 para cada jogador. Primeiro para o jogador A e depois para o jogador B. Após a escolha de cada jogador o algoritmo deve apresentar quais foram os números que apenas o jogador A e B colocou sem repetir nenhum número.
 
-**EX: **
+**EX:**
 
 **Jogador A: 1,2,3,4,5**
 
